@@ -1,3 +1,4 @@
+##### NewsNamaste
 NewsNamaste is a modern React-based web application that delivers the latest news across various fields, including technology, business, sports, health, entertainment, and more. The application integrates with a news API to provide real-time updates and a seamless browsing experience for users.
 
 Features
